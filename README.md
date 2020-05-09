@@ -2,3 +2,5 @@
 
 Ensure you use clusterProfiler instead of Reactome.
 Ensure the proper species "human", "mus musculus"...
+
+knitr::purl ,, “eval=FALSE”.
